@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T22:46:23.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="jzT0xnpVytJ88uC2xzFZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T23:11:16.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SCJuEivUUIuSsGR3jKe8" version="22.1.11" type="github">
   <diagram name="Page-1" id="REWisB-KWf6fxY43_QYX">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8icUB-owQlPpJnUKyk06-1" value="E-KONOBAR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="284" y="150" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-2" value="Pravila rada" style="endArrow=none;html=1;rounded=0;exitX=0.904;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;horizontal=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="90" as="sourcePoint" />
+            <mxPoint x="520" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-3" value="prava i obaveze" style="endArrow=none;html=1;rounded=0;horizontal=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="sourcePoint" />
+            <mxPoint x="420" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-4" value="zakon o finansijama" style="endArrow=none;html=1;rounded=0;exitX=0.138;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;horizontal=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="320" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-5" value="Placanje" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-6" value="ljudski resursi" style="endArrow=none;html=1;rounded=0;entryX=0.869;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="550" as="sourcePoint" />
+            <mxPoint x="520" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-7" value="Sistem za evidenciju" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;horizontal=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="550" as="sourcePoint" />
+            <mxPoint x="439" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-8" value="Dostupnost interneta" style="endArrow=none;html=1;rounded=0;entryX=0.142;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;verticalAlign=middle;horizontal=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="550" as="sourcePoint" />
+            <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-9" value="Zaposleni" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="370" as="sourcePoint" />
+            <mxPoint x="720" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-10" value="usluga" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.677;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="sourcePoint" />
+            <mxPoint x="720" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-11" value="Racun" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="290" as="sourcePoint" />
+            <mxPoint x="720" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-12" value="dostupnost pica" style="endArrow=none;html=1;rounded=0;exitX=0.992;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="250" as="sourcePoint" />
+            <mxPoint x="720" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-13" value="evidencija pica" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="210" as="sourcePoint" />
+            <mxPoint x="720" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-14" value="Potvrdjivanje porudzbine" style="endArrow=none;html=1;rounded=0;entryX=0.004;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="320" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-15" value="Biranje proizvoda" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8icUB-owQlPpJnUKyk06-16" value="Skeniranje qr koda" style="endArrow=none;html=1;rounded=0;entryX=-0.004;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8icUB-owQlPpJnUKyk06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
